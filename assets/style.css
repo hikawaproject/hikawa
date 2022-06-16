@@ -1,0 +1,107 @@
+body {
+	background-color: rgb(224, 224, 224);
+}
+
+* {
+  border-radius: 0 !important;
+}
+
+.bd-placeholder-img {
+	font-size: 1.125rem;
+	text-anchor: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+}
+
+.hikawa-nav {
+	background-color: #ffffff;
+	color: rgb(84, 84, 84);
+	text-align: center;
+}
+
+.hikawa-nav-header {
+	background-color: #398301;
+	color: #ffffff;
+	text-align: center;
+}
+
+.cheru-old-header {
+	background-color: #C3732A;
+	color: #ffffff;
+	text-align: center;
+}
+
+.cheru-new-header {
+	background-color: #274F83;
+	color: #ffffff;
+	text-align: center;
+}
+
+.hikawa-logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
+
+.cheru-btn-old {
+	background-color: #C3732A;
+	color: #ffffff;
+	text-align: center;
+	font-weight: bold;
+}
+
+.cheru-btn-old:hover {
+	background-color: #C3732A;
+	color: #ffffff;
+	text-align: center;
+	font-weight: bold;
+}
+
+.cheru-btn-new {
+	background-color: #274F83;
+	color: #ffffff;
+	text-align: center;
+	font-weight: bold;
+}
+
+.cheru-btn-new:hover {
+	background-color: #274F83;
+	color: #ffffff;
+	text-align: center;
+	font-weight: bold;
+}
+
+.hikawa-btn {
+	background-color: #398301;
+	color: #ffffff;
+	text-align: center;
+}
+
+.hikawa-btn:hover {
+	background-color: #398301;
+	color: #ffffff;
+	text-align: center;
+}
+
+.trakteer-btn {
+	background-color: #BE1E2D;
+	color: #ffffff;
+	text-align: center;
+}
+
+.trakteer-btn:hover {
+	background-color: #BE1E2D;
+	color: #ffffff;
+	text-align: center;
+}
+
+.btn (
+	margin-bottom: 5px;
+)
+
+.card-text
+(
+	text-align: center;
+)
